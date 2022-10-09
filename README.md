@@ -1,5 +1,6 @@
 # -CUS1115-StringsPractice
 Common Personal Introduction Strings
+CUS 1115 Computer Programming Fundamentals I [JAVA].
 
 
 /*
